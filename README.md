@@ -1,2 +1,2 @@
-# sin-cos-tan.github.io
-will probably be used in the future.
+# Projects by SIN() COS() TAN()
+Nothing to see here, yet.
